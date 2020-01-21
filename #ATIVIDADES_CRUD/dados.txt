@@ -1,0 +1,9 @@
+
+Sandero   		2019    	    ABC-123
+LOGAN     		2018    	    ABC-124
+LEAF      		2015		    AEI-1529
+RANGE ROVER     	2015    	    ABC-1516
+COROLLA   		2010    	    GDF-4568
+CIVIC     		2010    	    ADK-4454
+FRONTIE                 2016                    DSD-5469
+CAMARO                  2018                ADS-1312
