@@ -1,0 +1,8 @@
+#entrada
+vel_ms = int(input("INFORME A VELOCIDADE EM M/S:"))
+
+#processamento
+vel_kmh = vel_ms*3,6
+
+#saida
+print("A VELOCIDADE É DE",vel_kmh,"KM/H.")
